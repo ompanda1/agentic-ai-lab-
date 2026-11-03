@@ -45,8 +45,3 @@ main.py
 - The reflection agent runs one critique-revise pass, with no stopping condition.
 - The tool agent has one tool (calculator) and no retry if the model returns invalid JSON.
 - The research agent does not search or cite anything; it only plans.
-
-## AI assistance
-
-Parts of this code were written with AI assistance. I reviewed and tested
-the code and documented what I observed in `experiments.md`.
